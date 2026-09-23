@@ -1,0 +1,14 @@
+C:\Users\jaime\mad lib\bin\Debug\net10.0\mad lib.exe
+C:\Users\jaime\mad lib\bin\Debug\net10.0\mad lib.deps.json
+C:\Users\jaime\mad lib\bin\Debug\net10.0\mad lib.runtimeconfig.json
+C:\Users\jaime\mad lib\bin\Debug\net10.0\mad lib.dll
+C:\Users\jaime\mad lib\bin\Debug\net10.0\mad lib.pdb
+C:\Users\jaime\mad lib\obj\Debug\net10.0\mad lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\mad lib\obj\Debug\net10.0\mad lib.AssemblyInfoInputs.cache
+C:\Users\jaime\mad lib\obj\Debug\net10.0\mad lib.AssemblyInfo.cs
+C:\Users\jaime\mad lib\obj\Debug\net10.0\mad lib.csproj.CoreCompileInputs.cache
+C:\Users\jaime\mad lib\obj\Debug\net10.0\mad lib.dll
+C:\Users\jaime\mad lib\obj\Debug\net10.0\refint\mad lib.dll
+C:\Users\jaime\mad lib\obj\Debug\net10.0\mad lib.pdb
+C:\Users\jaime\mad lib\obj\Debug\net10.0\mad lib.genruntimeconfig.cache
+C:\Users\jaime\mad lib\obj\Debug\net10.0\ref\mad lib.dll
